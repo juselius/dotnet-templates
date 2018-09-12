@@ -1,9 +1,0 @@
-framework >= net46
-
-source https://api.nuget.org/v3/index.json
-
-nuget FAKE 
-nuget FSharp.Core 
-nuget FSharp.Data 
-nuget FSharp.Configuration 
-nuget FSharpx.Extras
