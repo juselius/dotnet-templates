@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Jonas Juselius",
+  "classifications": [ "itp/fable" ],
+  "name": "Elmish client",
+  "identity": "ITP.NETCore.FSharp",
+  "groupIdentity":"ITP.NETCore",
+  "shortName": "elmish-client",
+  "tags": {
+    "language": "F#",
+    "type":"project"
+  },
+  "sourceName": "Placeholder",
+  "preferNameDirectory": true
+}
